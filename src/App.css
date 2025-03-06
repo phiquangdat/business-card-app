@@ -1,0 +1,28 @@
+.businessCard{
+  display:inline-block;
+  margin:50px;
+  border:2px
+    solid #eee;
+    box-shadow:0 2px spx #ccc;
+  width:300px;
+}
+
+img{
+  margin-top:50px;
+  width:200px;
+}
+
+body{
+  font-family: Arial, Helvetica, Nimbus Sans L, sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.job-title {
+  font-weight: bold;
+}
+
+.bc{
+  color: #b1228c;
+}
